@@ -11,8 +11,8 @@ The final project repository for the BI Systems Development course at Experis Ac
 
 ### Repository Contents
 
-1. Apple Sales Data Mart Project: BI Specifiactions.pdf: Detailed project specifications.
-2. ERD - Apple Sales Data Mart.png: Visual representation of the database schema, illustrating entity relationships.
-3. S2T Mapping - AppleSalesDataMart.xlsx: Document detailing the transformation and loading process of source system data into the data mart.
-4. Gantt-AppleSalesDataMart.xlsx: Timeline representation showcasing project milestones and schedules.
-5. AppleSalesDM.pbix: The Power BI file housing the developed reports and visualizations.
+1. **Apple Sales Data Mart Project:** BI Specifiactions.pdf: Detailed project specifications.
+2. **ERD - Apple Sales Data Mart.png:** Visual representation of the database schema, illustrating entity relationships.
+3. **S2T Mapping - AppleSalesDataMart.xlsx:** Document detailing the transformation and loading process of source system data into the data mart.
+4. **Gantt-AppleSalesDataMart.xlsx:** Timeline representation showcasing project milestones and schedules.
+5. **AppleSalesDM.pbix:** The Power BI file housing the developed reports and visualizations.
