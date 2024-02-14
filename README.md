@@ -5,15 +5,14 @@ The final project repository for the BI Systems Development course at Experis Ac
 
 1. **Project Specifications:** Planning the data mart and reports, including crafting essential documents such as the ERD and Source-to-Target Mapping. These artifacts provided the foundational blueprint for subsequent development phases.
 
-2. **Data Mart Development:** Using SSIS for the ETL process, to load OLTP data from the PriorityERP database, transforming it and loading it to the final Data Mart tables. Throughout this process many data quality assurance tests were conducted to maintain data integrity. The resulting data mart comprises one fact table, four dimension tables, and one history table.
+2. **Data Mart Development:** Using SSIS for the ETL process to load OLTP data from the PriorityERP database, transform it, and load it to the final Data Mart tables. Many data quality assurance tests were conducted throughout this process to maintain data integrity. The resulting data mart comprises one fact table, four dimension tables, and one history table.
 
-3. **Power BI Reports**: This phase involved creating additional tables, calculated columns, and measures using DAX to support the envisioned visualizations. Subsequently, proceeding to craft and design the visualizations.
+3. **Power BI Reports**: This phase involved creating additional tables, calculated columns, and measures using DAX to support the envisioned visualizations and, subsequently, proceeding to craft and design the visualizations. 3 Reports were created: an Executive Dashboard, a Sales Analysis Report, and a Customer Sales Analysis Report.
 
-#### The reports include:
+### Repository Contents
 
-**Executive Dashboard:** Offering an executive-level overview of key performance indicators (KPIs) and trends crucial to Apple's sales department.
-
-**Sales Analysis Report:** Providing in-depth analysis and visualization of sales trends, country-wise sales distribution, and more, facilitating stakeholders in gaining valuable insights into sales dynamics.
-
-**Customer Sales Analysis Report:** Centered on customer-centric analysis, this report offers insights into customer behavior, purchase patterns, segmentation, and related metrics.
-
+1. Apple Sales Data Mart Project: BI Specifiactions.pdf: Detailed project specifications.
+2. ERD - Apple Sales Data Mart.png: Visual representation of the database schema, illustrating entity relationships.
+3. S2T Mapping - AppleSalesDataMart.xlsx: Document detailing the transformation and loading process of source system data into the data mart.
+4. Gantt-AppleSalesDataMart.xlsx: Timeline representation showcasing project milestones and schedules.
+5. AppleSalesDM.pbix: The Power BI file housing the developed reports and visualizations.
